@@ -1,0 +1,75 @@
+.background {
+  background: #F037A5;
+}
+
+.background h1 {
+  font-weight: 900;
+  font-size: 56px;
+}
+
+.background h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  font-weight: 400;
+}
+
+.background button {
+  background: black;
+  border: none;
+  border-radius: 5pc;
+  padding: 17px 48px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-top: 4pc;
+  letter-spacing: 2px;
+}
+
+.background button:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  background-color: black;
+}
+
+.background .mlow {
+  margin-top: 10pc;
+}
+
+.background2 {
+  background: url(https://campaigns.scdn.co/images/hero-burst-cropped.svg) no-repeat center/1610px 1523px, -webkit-gradient(linear, left top, left bottom, color-stop(-60%, #F037A5), color-stop(140%, #FAE62D));
+  background: url(https://campaigns.scdn.co/images/hero-burst-cropped.svg) no-repeat center/1610px 1523px, linear-gradient(#F037A5 -60%, #FAE62D 140%);
+}
+
+.background2 h1 {
+  color: white;
+  font-size: 56px;
+  font-weight: 900;
+}
+
+.background2 h2 {
+  color: white;
+  font-size: 24px;
+  margin-top: 30px;
+  font-weight: 400;
+}
+
+.background2 button {
+  background: #1ED760;
+  border: none;
+  border-radius: 5pc;
+  padding: 17px 48px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-top: 4pc;
+  letter-spacing: 2px;
+}
+
+.background2 button:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  background-color: #1ed760;
+}
+
+.background2 .mlow {
+  padding: 5pc 0pc 5pc 0pc;
+}
+/*# sourceMappingURL=home.css.map */

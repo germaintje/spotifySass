@@ -1,0 +1,56 @@
+footer {
+  padding-top: 4pc;
+  padding-bottom: 3pc;
+  background-color: black;
+}
+
+footer h5 {
+  color: #919496;
+}
+
+footer a {
+  color: white;
+  font-size: 20px;
+}
+
+footer a:hover {
+  color: #1ED760;
+  text-decoration: none;
+}
+
+footer .socials a {
+  background: #222326;
+  border-radius: 50%;
+  font-size: 2pc;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+footer .socials a i {
+  color: white;
+  margin-left: 8px;
+}
+
+footer .socials a i:hover {
+  color: #1ED760;
+}
+
+footer .handy {
+  background-color: black;
+}
+
+footer .handy a {
+  margin-right: 15px;
+  font-size: 15px;
+  color: #919496;
+}
+
+footer .handy a:hover {
+  color: #1ed760;
+  text-decoration: none;
+}
+
+footer .handy p {
+  color: #919496;
+}
+/*# sourceMappingURL=footer.css.map */

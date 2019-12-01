@@ -1,0 +1,40 @@
+.signup {
+  text-align: center;
+}
+
+.signup .logo {
+  background: white;
+  border-bottom: 1px solid grey;
+}
+
+.signup button {
+  font-size: 19px;
+  padding: 16px 48px 18px;
+  font-weight: 700;
+  border-radius: 500px;
+  background-color: #3B5998;
+  border: 0;
+}
+
+.signup input {
+  padding: 1pc;
+  margin-bottom: 20px;
+}
+
+.signup span {
+  margin-right: 3pc;
+}
+
+.signup .aanmelden {
+  font-size: 19px;
+  padding: 16px 48px 18px;
+  font-weight: 700;
+  border-radius: 500px;
+  background-color: #1DB954;
+  border: 0;
+}
+
+.signup .aanmelden:hover {
+  background-color: #1ED760;
+}
+/*# sourceMappingURL=signup.css.map */

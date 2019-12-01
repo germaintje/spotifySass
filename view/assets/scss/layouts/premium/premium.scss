@@ -1,0 +1,55 @@
+@import "../../common/colors.scss";
+
+.premium {
+    h1{
+        margin-top: 5pc;
+        margin-bottom: 5pc;
+        font-weight: 700;
+        font-size: 60px;
+    }
+    h2 {
+        margin-top: 35pc;
+        font-weight: 700;
+        font-size: 50px;
+    }
+
+    .pakket {
+        padding: 2pc;
+        box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+        border-radius: 10px;
+        font-size: 22px;
+
+        p.gratis{
+            background: #3F9ED7;
+            width: fit-content;
+            padding: 5px;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+    }
+.prem{
+    background: #1ED760;
+    border: none;
+    border-radius: 5pc;
+    padding: 17px 48px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 10pc;
+    margin-bottom: 2pc;
+    letter-spacing: 2px;
+    width: 100%;
+}
+.prem:hover {
+    transform: scale(1.04);
+    background-color: #1ed760;
+}
+.voorwaarden {
+    color: rgb(145, 148, 150);
+    text-decoration: underline;
+}
+.voorwaarde {
+    font-size: 15px;
+    text-align: center;
+}
+}

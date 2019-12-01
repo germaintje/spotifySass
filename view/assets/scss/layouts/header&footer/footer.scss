@@ -1,0 +1,51 @@
+@import "../../common/colors.scss";
+
+footer {
+    padding-top: 4pc;
+    padding-bottom: 3pc;
+    background-color: black;
+    h5 {
+        color: #919496;
+    }
+    a{
+        color: white;
+        font-size: 20px;
+    }
+    a:hover {
+        color: $hover;
+        text-decoration: none;
+    }
+
+.socials {
+    a{
+        background: #222326;
+        border-radius: 50%;
+        font-size: 2pc;
+        padding: 10px;
+        margin-right: 10px;
+        i{
+            color: white;
+            margin-left: 8px;
+        }
+        i:hover {
+            color: $hover;
+        }
+    }
+}
+
+.handy{
+    background-color: black;
+    a{
+        margin-right: 15px;
+        font-size: 15px;
+        color: #919496;
+    }
+    a:hover {
+        color: #1ed760;
+        text-decoration: none;;
+    }
+    p{
+        color: #919496;
+    }
+}
+}

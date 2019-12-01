@@ -1,0 +1,35 @@
+@import "../../common/colors.scss";
+
+.signup {
+    text-align: center;
+    .logo {
+            background: white;
+            border-bottom: 1px solid grey;
+    }
+    button {
+        font-size: 19px;
+        padding: 16px 48px 18px;
+        font-weight: 700;
+        border-radius: 500px;
+        background-color: #3B5998;
+        border: 0;
+    }
+    input {
+        padding: 1pc;
+        margin-bottom: 20px;
+    }
+    span{
+        margin-right: 3pc;
+    }
+    .aanmelden {
+        font-size: 19px;
+        padding: 16px 48px 18px;
+        font-weight: 700;
+        border-radius: 500px;
+        background-color: #1DB954;
+        border: 0;
+    }
+    .aanmelden:hover {
+        background-color: $hover;
+    }
+}

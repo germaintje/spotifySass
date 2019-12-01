@@ -1,0 +1,25 @@
+header {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+header .header {
+  overflow: hidden;
+  position: fixed;
+  z-index: 1;
+}
+
+header a {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  float: right;
+}
+
+header a:hover {
+  color: #1ED760;
+}
+
+header .login {
+  color: #d9dadc;
+}
+/*# sourceMappingURL=header.css.map */
