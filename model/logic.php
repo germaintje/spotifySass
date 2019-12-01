@@ -9,5 +9,8 @@ class Logic {
     public function __destruct() {
     }
 
+    public function Reads() {
+
+    }
 }
 ?>
