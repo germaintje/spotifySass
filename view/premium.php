@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="col-6">
-                <img src="view/assets/images/trumpet.png" style="width: 90%; height: 90%;" class="" alt="">
+                <img src="https://campaigns.scdn.co/images/holiday-2019-image1.png" style="width: 90%; height: 90%;" class="" alt="">
             </div>
 
         </div>

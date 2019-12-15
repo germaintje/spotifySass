@@ -4,7 +4,7 @@
 <?php include 'header.php';?>
 
 <div class="downloadbg" style="padding-bottom: 10pc; padding-top: 10pc;">
-    <div class="container" style="max-width: 95pc;">
+    <div class="container">
         <div class="row">
             <div class="col-9" style="text-align: center;">
                 <div class="mlow">
@@ -22,7 +22,7 @@ Hulp nodig? <a href="#">Ga naar Microsoft Store om dit te downloaden.</a></p>
 </div>
 
 <div class="stores">
-    <div class="container" style="max-width: 95pc;">
+    <div class="container" >
         <div class="row">
             <div class="col-12" style="text-align: center">
                 <div class="mlow">
@@ -42,7 +42,7 @@ Hulp nodig? <a href="#">Ga naar Microsoft Store om dit te downloaden.</a></p>
 </div>
 
 <div class="devices">
-    <div class="container" style="max-width: 95pc;">
+    <div class="container" >
         <div class="row">
             <div class="col-12" style="text-align: center">
             <img src="view/assets/images/all-devices.svg" style="width: 40%;">

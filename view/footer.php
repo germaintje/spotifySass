@@ -1,5 +1,5 @@
 <footer>
-  <div class="container" style="max-width: 95pc;">
+  <div class="container">
 
     <div class="row">
 
